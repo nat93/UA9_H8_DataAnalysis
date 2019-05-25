@@ -11,7 +11,9 @@ The European Physical Journal C, 78:505, 2018.
 PART II: DATA ANALYSIS
 
 Use a bash script, which will do all the work concerning the data analysis. The software has 4 (four) main input parameters:
+
 --> parameter 1: the name of the input file. The structure of the file is described in src/includes.hh
+
 --> parameter 2: run mode. Depends on what do you want to do it can be as follows:
 
     0 - to plot histograms of the input beam distributions and to define the geometrical cuts;
@@ -20,6 +22,7 @@ Use a bash script, which will do all the work concerning the data analysis. The 
     3 - to compute the inelastic nuclear interaction (INI) rate during an angular scan of the crystal, in terms of a fixed angular cut and number of INI coincidences for different goniometer orientations;
 
 --> parameter 3: year of the data taking. Due to a small change in a data structure (especially for INI variables), there are two possibilities to receive signals from the INI plastic scintillators.
+
 --> parameter 4: a working regime of the crystal. It can be 0 - channeling orientation, and 1 - amorphous or background cases.
 
 A file parameters.dat contains all necessary geometrical cuts and parameters for the analysis.
