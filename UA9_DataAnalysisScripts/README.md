@@ -4,6 +4,7 @@ PART I: THEORY
 
 [1] W. Scandale et al. Probability of inelastic nuclear interactions of high-energy protons in a bent crystal.
 Nuclear Instruments and Methods in Physics Research B, 268:2655 – 2659, 2010.
+
 [2] W. Scandale et al. Study of inelastic nuclear interactions of 400 GeV/c protons inbent silicon crystals for beam steering purposes.
 The European Physical Journal C, 78:505, 2018.
 
